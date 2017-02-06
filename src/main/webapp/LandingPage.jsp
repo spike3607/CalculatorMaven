@@ -10,6 +10,5 @@
         <p> Lab 1: <a href="CalculatorInputForm1.jsp">click here</a> </p>
         <p> Lab 2: <a href="CalculatorInputAndOutputForm2.jsp">click here</a> </p>
         <p> Lab 3: <a href="CalculatorInputAndOutputForm3.jsp">click here</a> </p>
-        <p> Shopping List: <a href="/NewCalculator/ShoppingController">click here</a> </p>
     </body>
 </html>
